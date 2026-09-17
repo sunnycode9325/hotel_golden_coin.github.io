@@ -138,7 +138,7 @@ a {
 .hero-bg {
   position: absolute;
   inset: -4%;
-  background: url("/assets/IMG_20260522_190820870.jpg") center/cover;
+  background: url("assets/IMG_20260522_190820870.jpg") center/cover;
   filter: saturate(.75) contrast(1.08);
   transform: scale(1.04);
   transition: transform 1.2s;
